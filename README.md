@@ -1,13 +1,20 @@
-Hello! 👋 I'm Lyes Djaout,
+<h1 align="center">Hello, I'm Lyes! 👋</h1>
+<p align="center">
+  FullStack Developer | Passionate Learner | Code Enthusiast
+</p>
 
- A fullstack developer with a passion for creating web applications. Currently a student, I spend a lot of my time honing my development skills.
+<p align="center">
+  <a href="https://www.linkedin.com/in/lyes-djaout-210244229/"><img src="https://img.shields.io/badge/LinkedIn-Lyes%20Djaout-blue" alt="LinkedIn"></a>
+</p>
 
-🔭 Currently, I'm working on various projects using my TypeScript and React skills to develop interactive, high-performance user interfaces.
+💼 Working as a FullStack Developer.
+🌱 Learning Symfony.
+🚀 Open to collaborating on exciting projects.
+🤔 Exploring Design Patterns.
+💬 Ask me about anything tech-related.
+📧 Reach me at [contact@Lyes](mailto:djaoutlyes24@gmail.com).
 
-🌱 I'm developing my backend skills by learning Symfony, in addition to my previous experience with JavaScript (Express) and Golang, to become a versatile developer.
-
-👯 I'm open to collaborating on interesting projects where I can put my skills into practice and learn new ones.
-
-💬 Don't hesitate to ask me questions about my projects, favourite technologies or anything to do with web development.
-
-📫 Reach me via email at djaoutlyes24@gmail.com 
+<!-- Footer -->
+<p align="left">
+  <i>Coding with 💖</i>
+</p>
