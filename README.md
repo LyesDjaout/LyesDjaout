@@ -12,7 +12,7 @@
 </p>
 
 💼 Working as a FullStack Developer.<br>
-🌱 Learning Symfony.<br>
+🌱 Learning Java.<br>
 🚀 Open to collaborating on exciting projects.<br>
 🤔 Exploring Design Patterns.<br>
 💬 Ask me about anything tech-related.<br>
