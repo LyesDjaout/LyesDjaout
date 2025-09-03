@@ -1,6 +1,6 @@
 <h1 align="center">Hello, I'm Lyes! 👋</h1>
 <p align="center">
-  FullStack Developer | Passionate Learner | Code Enthusiast
+  FullStack Developer | Code Enthusiast
 </p>
 
 <p align="center">
